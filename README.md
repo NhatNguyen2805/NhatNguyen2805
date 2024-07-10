@@ -8,7 +8,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://www.tiktok.com/@nhat_nguyen0258" alt="TikTok">
-    <img src="https://img.icons8.com/?size=100&id=11xHwSW974uy&format=png&color=000000" target="_blank" />
+    <img src="https://icons8.com/icon/84521/tiktok" target="_blank" />
   </a>
 </p>
 
